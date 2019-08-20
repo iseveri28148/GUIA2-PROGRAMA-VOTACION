@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=votacion
+comment0.text=\r\n\ Se\ crea\ un\ programa\ para\ que\ los\ votantes,\ voten\ por\ una\ de\ tres\ opciones.\r\n\ \r\n\ @author\ \ Sandra\ Martin,\ Israel\ Severiche,\ Jose\ Alvarez\r\n\ @version\ 20190818\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
